@@ -1,0 +1,8 @@
+This is some text inside the file
+
+Another line tool
+
+
+
+:wq
+
